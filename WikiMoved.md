@@ -1,0 +1,1 @@
+The Wiki for this project was moved to Github: https://github.com/h5o/h5o-js/wiki

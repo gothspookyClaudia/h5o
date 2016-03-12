@@ -1,0 +1,7 @@
+There is [a version of the bookmarklet](http://h5o.googlecode.com/files/bookmarklet.for.ie.html) available, which will not be maintained, because of the following issues:
+
+  * **Maximum "URL" length (2kb)** which makes it very hard to actually implement anything reasonable
+    * Obviously, it could be used as a remote JS include, but that wouldn't be very safe for you to use, with potential cookie sniffing and things, would it now?
+  * **Incomplete support for HTML5** which means that the bookmarklet is unstable unless the latest version of [HTML5 shiv](http://code.google.com/p/html5shiv/) is used on the page to be outlined
+  * **No easy way to actually drag'n'drop the bookmarklet**, unless there are proficient IE users, who can explain how it's done.
+  * **Pointless for development process** as a bookmarklet - other browsers provide much better support. The full "library" version (minified JS) does work and will be maintained.

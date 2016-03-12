@@ -1,0 +1,1 @@
+The issues for this project were moved to Github: https://github.com/h5o/h5o-js/issues
